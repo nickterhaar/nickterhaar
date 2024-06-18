@@ -18,22 +18,12 @@ I'm currently looking for:
 **- Second Internship (TBD - 10 weeks).**
 
 More about me _or contact me_ on:
+<br>
 [GitHub (where you are now)](https://github.com/nickterhaar)
+<br>
 [LinkedIn](https://www.linkedin.com/in/nickterhaar/)
+<br>
 [Discord](https://discord.com/users/nickterhaar)
+<br>
 [Instagram](https://www.instagram.com/nick_terhaar/)
-
-<div class="flex gap-8 justify-center">
-    <a href="" target=”_blank” class="group flex flex-col gap-4 justify-center items-center">
-        <img style="width:75px;height:auto;dispal:flex;justify-content:center;align-items:center;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="">
-    </a>
-    <a href="https://www.linkedin.com/in/nickterhaar/" target=”_blank” class="group flex flex-col gap-4 justify-center items-center">
-        <img style="width:75px;height:auto;dispal:flex;justify-content:center;align-items:center;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="">
-    </a>
-    <a href="https://discord.com/users/nickterhaar" target="_blank" class="group flex flex-col gap-4 justify-center items-center">
-        <img style="width:75px;height:auto;dispal:flex;justify-content:center;align-items:center;" src="https://devicons.railway.app/i/discord.svg" alt="">
-    </a>
-    <a href="https://www.instagram.com/nick_terhaar/" target=”_blank” class="group flex flex-col gap-4 justify-center items-center">
-        <img style="width:75px;height:auto;dispal:flex;justify-content:center;align-items:center;" src="https://devicons.railway.app/i/instagram.svg" alt="">
-    </a>
-</div>
+<br>
