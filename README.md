@@ -23,4 +23,5 @@ More about me _or contact me_ on:
 * [Discord](https://discord.com/users/nickterhaar)
 * [Instagram](https://www.instagram.com/nick_terhaar/)
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickterhaar&show_icons=true&locale=en&layout=compact" alt="nickterhaar" /></p>
