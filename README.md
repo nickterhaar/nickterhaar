@@ -1,4 +1,4 @@
-Hello there, I'm Nick 👋
+### Hello there, I'm Nick 👋
 
 I'm a Dutch _**Software Developer**_ (student),
 _**photography enthusiast**_ and I like my occasional _**coffee**_.
