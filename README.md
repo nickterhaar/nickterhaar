@@ -12,7 +12,8 @@ A year later I came to the conclusion that I wanted to learn more than just web 
 And here I am... a Software Development (Ad) student at the Saxion University of Applied Sciences in Enschede.
 
 I'm currently looking for:
-- First Internship (September - 10 weeks).
-- Second Internship (TBD - 10 weeks).
+*- First Internship (September - 10 weeks).*
+*- Second Internship (TBD - 10 weeks).*
+
 For more information about these internships,
 please checkout this PDF (in dutch).
