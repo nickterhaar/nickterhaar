@@ -17,5 +17,18 @@ I'm currently looking for:
 <br>
 **- Second Internship (TBD - 10 weeks).**
 
-For more information about these internships,
-please checkout this PDF (in dutch).
+<h2 class="text-sm md:text-base text-orange-500 uppercase">More about me <span class="italic">or contact me</span> on:</h2>
+<div class="flex gap-8 justify-center">
+    <a href="https://github.com/nickterhaar" target=”_blank” class="group flex flex-col gap-4 justify-center items-center">
+        <img class="w-10 h-auto opacity-75 hover:opacity-100" src="./icons/github-light.svg" alt="">
+    </a>
+    <a href="https://www.linkedin.com/in/nickterhaar/" target=”_blank” class="group flex flex-col gap-4 justify-center items-center">
+        <img class="w-10 h-auto opacity-75 hover:opacity-100" src="./icons/linkedin.svg" alt="">
+    </a>
+    <a href="https://discord.com/users/nickterhaar" target="_blank" class="group flex flex-col gap-4 justify-center items-center">
+        <img class="w-10 h-auto opacity-75 hover:opacity-100" src="./icons/discord-light.svg" alt="">
+    </a>
+    <a href="https://www.instagram.com/nick_terhaar/" target=”_blank” class="group flex flex-col gap-4 justify-center items-center">
+        <img class="w-10 h-auto opacity-75 hover:opacity-100" src="./icons/instagram.svg" alt="">
+    </a>
+</div>
