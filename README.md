@@ -18,12 +18,7 @@ I'm currently looking for:
 **- Second Internship (TBD - 10 weeks).**
 
 More about me _or contact me_ on:
-<br>
-* [GitHub (where you are now)](https://github.com/nickterhaar)
-<br>
-* [LinkedIn](https://www.linkedin.com/in/nickterhaar/)
-<br>
-* [Discord](https://discord.com/users/nickterhaar)
-<br>
+* [GitHub (where you are now)](https://github.com/nicterhaar)
+* [LinkedIn](https://www.linkedin.com/in/nickterhar/)
+* [Discord](https://discord.com/users/nickterhaar
 * [Instagram](https://www.instagram.com/nick_terhaar/)
-<br>
