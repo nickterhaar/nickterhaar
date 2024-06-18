@@ -20,15 +20,15 @@ I'm currently looking for:
 More about me _or contact me_ on:
 <div class="flex gap-8 justify-center">
     <a href="https://github.com/nickterhaar" target=”_blank” class="group flex flex-col gap-4 justify-center items-center">
-        <img class="w-10 h-auto opacity-75 hover:opacity-100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="">
+        <img style="width:25px;height:auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="">
     </a>
     <a href="https://www.linkedin.com/in/nickterhaar/" target=”_blank” class="group flex flex-col gap-4 justify-center items-center">
-        <img class="w-10 h-auto opacity-75 hover:opacity-100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="">
+        <img style="width:25px;height:auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="">
     </a>
     <a href="https://discord.com/users/nickterhaar" target="_blank" class="group flex flex-col gap-4 justify-center items-center">
-        <img class="w-10 h-auto opacity-75 hover:opacity-100" src="https://devicons.railway.app/i/discord.svg" alt="">
+        <img style="width:25px;height:auto" src="https://devicons.railway.app/i/discord.svg" alt="">
     </a>
     <a href="https://www.instagram.com/nick_terhaar/" target=”_blank” class="group flex flex-col gap-4 justify-center items-center">
-        <img class="w-10 h-auto opacity-75 hover:opacity-100" src="./icons/instagram.svg" alt="">
+        <img style="width:25px;height:auto" src="./icons/instagram.svg" alt="">
     </a>
 </div>
