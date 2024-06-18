@@ -29,6 +29,6 @@ More about me _or contact me_ on:
         <img style="width:25px;height:auto" src="https://devicons.railway.app/i/discord.svg" alt="">
     </a>
     <a href="https://www.instagram.com/nick_terhaar/" target=”_blank” class="group flex flex-col gap-4 justify-center items-center">
-        <img style="width:25px;height:auto" src="./icons/instagram.svg" alt="">
+        <img style="width:25px;height:auto" src="https://devicons.railway.app/i/instagram.svg" alt="">
     </a>
 </div>
