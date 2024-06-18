@@ -18,10 +18,10 @@ I'm currently looking for:
 **- Second Internship (TBD - 10 weeks).**
 
 More about me _or contact me_ on:
-[](https://github.com/nickterhaar)
-[](https://www.linkedin.com/in/nickterhaar/)
-[](https://discord.com/users/nickterhaar)
-[](https://www.instagram.com/nick_terhaar/)
+[GitHub (where you are now)](https://github.com/nickterhaar)
+[LinkedIn](https://www.linkedin.com/in/nickterhaar/)
+[Discord](https://discord.com/users/nickterhaar)
+[Instagram](https://www.instagram.com/nick_terhaar/)
 
 <div class="flex gap-8 justify-center">
     <a href="" target=”_blank” class="group flex flex-col gap-4 justify-center items-center">
