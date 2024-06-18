@@ -20,5 +20,5 @@ I'm currently looking for:
 More about me _or contact me_ on:
 * [GitHub (where you are now)](https://github.com/nicterhaar)
 * [LinkedIn](https://www.linkedin.com/in/nickterhar/)
-* [Discord](https://discord.com/users/nickterhaar
+* [Discord](https://discord.com/users/nickterhaar)
 * [Instagram](https://www.instagram.com/nick_terhaar/)
