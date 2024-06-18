@@ -19,11 +19,11 @@ I'm currently looking for:
 
 More about me _or contact me_ on:
 <br>
-[GitHub (where you are now)](https://github.com/nickterhaar)
+* [GitHub (where you are now)](https://github.com/nickterhaar)
 <br>
-[LinkedIn](https://www.linkedin.com/in/nickterhaar/)
+* [LinkedIn](https://www.linkedin.com/in/nickterhaar/)
 <br>
-[Discord](https://discord.com/users/nickterhaar)
+* [Discord](https://discord.com/users/nickterhaar)
 <br>
-[Instagram](https://www.instagram.com/nick_terhaar/)
+* [Instagram](https://www.instagram.com/nick_terhaar/)
 <br>
