@@ -1,5 +1,7 @@
-Hello there, I'm Nick and I'm a Dutch Software Developer (student),
-photography enthusiast and I like my occasional coffee.
+Hello there, I'm Nick 👋
+
+I'm a Dutch🇳🇱 Software Developer (student),
+photography📷 enthusiast and I like my occasional coffee☕️.
 
 At the end of 2021 I made the decision to make a career change and to become a (Software) Developer.
 
