@@ -9,7 +9,7 @@ I first started with a 10-week course "Introduction to Full Stack Web Developmen
 
 A year later I came to the conclusion that I wanted to learn more than just web development and decided to go back to school.
 
-And here I am... a Software Development (Ad) student at the Saxion University of Applied Sciences in Enschede.
+And here I am... a _**Software Development (Ad)**_ student at the _**Saxion University of Applied Sciences**_ in Enschede.
 
 I'm currently looking for:
 <br>
