@@ -17,7 +17,7 @@ I'm currently looking for:
 <br>
 **- Second Internship (TBD - 10 weeks).**
 
-<h2 class="text-sm md:text-base text-orange-500 uppercase">More about me <span class="italic">or contact me</span> on:</h2>
+More about me _or contact me_ on:
 <div class="flex gap-8 justify-center">
     <a href="https://github.com/nickterhaar" target=”_blank” class="group flex flex-col gap-4 justify-center items-center">
         <img class="w-10 h-auto opacity-75 hover:opacity-100" src="./icons/github-light.svg" alt="">
