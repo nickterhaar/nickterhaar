@@ -13,8 +13,6 @@ And here I am... a _**Software Development (Ad)**_ student at the _**Saxion Univ
 
 I'm currently looking for:
 <br>
-**- First Internship (September - 10 weeks).**
-<br>
 **- Second Internship (TBD - 10 weeks).**
 
 More about me _or contact me_ on:
