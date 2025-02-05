@@ -11,10 +11,6 @@ A year later I came to the conclusion that I wanted to learn more than just web 
 
 And here I am... a _**Software Development (Ad)**_ student at the _**Saxion University of Applied Sciences**_ in Enschede.
 
-I'm currently looking for:
-<br>
-**- Second Internship (TBD - 10 weeks).**
-
 More about me _or contact me_ on:
 * [GitHub (where you are now)](https://github.com/nicterhaar)
 * [LinkedIn](https://www.linkedin.com/in/nickterhar/)
